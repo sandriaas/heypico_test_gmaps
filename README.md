@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="overview.gif" alt="AI Overview" width="600">
+</p>
+
+
 # Overview
 
 A web-based chat application that leverages Large Language Models (LLMs) to provide an intelligent, conversational interface for interacting with maps. Users can ask for directions, search for places, and have a natural conversation with an AI assistant that understands geographical queries.
