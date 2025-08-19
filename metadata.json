@@ -1,0 +1,5 @@
+{
+  "name": "GeoChat AI",
+  "description": "An AI-powered chat application that integrates with Google Maps to provide location-based information and directions based on natural language queries. The app simulates an LLM understanding user requests and displaying embedded maps.",
+  "requestFramePermissions": []
+}
